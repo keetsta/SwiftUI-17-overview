@@ -11,6 +11,27 @@
 		136B5F5D2B345BFD00DC2BA5 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 136B5F5C2B345BFD00DC2BA5 /* ContentView.swift */; };
 		136B5F5F2B345BFE00DC2BA5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 136B5F5E2B345BFE00DC2BA5 /* Assets.xcassets */; };
 		136B5F622B345BFE00DC2BA5 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 136B5F612B345BFE00DC2BA5 /* Preview Assets.xcassets */; };
+		136B5F6B2B34614B00DC2BA5 /* ScrollViewList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 136B5F6A2B34614B00DC2BA5 /* ScrollViewList.swift */; };
+		136B5F6D2B348E7C00DC2BA5 /* ViewAlignedBehavior.swift in Sources */ = {isa = PBXBuildFile; fileRef = 136B5F6C2B348E7C00DC2BA5 /* ViewAlignedBehavior.swift */; };
+		136B5F6F2B348EF900DC2BA5 /* PagingBehavior.swift in Sources */ = {isa = PBXBuildFile; fileRef = 136B5F6E2B348EF900DC2BA5 /* PagingBehavior.swift */; };
+		136B5F712B34918800DC2BA5 /* DisabledScrollClip.swift in Sources */ = {isa = PBXBuildFile; fileRef = 136B5F702B34918800DC2BA5 /* DisabledScrollClip.swift */; };
+		136B5F752B3493A300DC2BA5 /* ScrollMargin.swift in Sources */ = {isa = PBXBuildFile; fileRef = 136B5F742B3493A300DC2BA5 /* ScrollMargin.swift */; };
+		136B5F7A2B3494BB00DC2BA5 /* TransitionExample1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 136B5F792B3494BB00DC2BA5 /* TransitionExample1.swift */; };
+		136B5F7C2B3494C300DC2BA5 /* TransitionExample2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 136B5F7B2B3494C300DC2BA5 /* TransitionExample2.swift */; };
+		136B5F7E2B3494C900DC2BA5 /* TransitionExample3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 136B5F7D2B3494C900DC2BA5 /* TransitionExample3.swift */; };
+		136B5F832B3498C500DC2BA5 /* ShadersList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 136B5F822B3498C500DC2BA5 /* ShadersList.swift */; };
+		136B5F862B34994800DC2BA5 /* ShaderExample1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 136B5F852B34994800DC2BA5 /* ShaderExample1.swift */; };
+		136B5F882B3499FE00DC2BA5 /* Shaders.metal in Sources */ = {isa = PBXBuildFile; fileRef = 136B5F872B3499FE00DC2BA5 /* Shaders.metal */; };
+		136B5F8A2B349AEC00DC2BA5 /* ShaderExample2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 136B5F892B349AEC00DC2BA5 /* ShaderExample2.swift */; };
+		136B5F8C2B349C6800DC2BA5 /* ShaderExample3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 136B5F8B2B349C6800DC2BA5 /* ShaderExample3.swift */; };
+		136B5F8E2B349C6B00DC2BA5 /* ShaderExample4.swift in Sources */ = {isa = PBXBuildFile; fileRef = 136B5F8D2B349C6B00DC2BA5 /* ShaderExample4.swift */; };
+		136B5F902B349C7D00DC2BA5 /* ShaderExample5.swift in Sources */ = {isa = PBXBuildFile; fileRef = 136B5F8F2B349C7D00DC2BA5 /* ShaderExample5.swift */; };
+		136B5F932B34A00D00DC2BA5 /* VisualEffectsList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 136B5F922B34A00D00DC2BA5 /* VisualEffectsList.swift */; };
+		136B5F962B34A07A00DC2BA5 /* VisualEffectExample1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 136B5F952B34A07A00DC2BA5 /* VisualEffectExample1.swift */; };
+		136B5F982B34A0AF00DC2BA5 /* VisualEffectExample2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 136B5F972B34A0AF00DC2BA5 /* VisualEffectExample2.swift */; };
+		136B5F9B2B34CD5D00DC2BA5 /* IconsAndTextList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 136B5F9A2B34CD5D00DC2BA5 /* IconsAndTextList.swift */; };
+		136B5F9F2B34CE2700DC2BA5 /* IconsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 136B5F9E2B34CE2700DC2BA5 /* IconsView.swift */; };
+		136B5FA12B34CE2C00DC2BA5 /* TextView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 136B5FA02B34CE2C00DC2BA5 /* TextView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +40,27 @@
 		136B5F5C2B345BFD00DC2BA5 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		136B5F5E2B345BFE00DC2BA5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		136B5F612B345BFE00DC2BA5 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		136B5F6A2B34614B00DC2BA5 /* ScrollViewList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollViewList.swift; sourceTree = "<group>"; };
+		136B5F6C2B348E7C00DC2BA5 /* ViewAlignedBehavior.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewAlignedBehavior.swift; sourceTree = "<group>"; };
+		136B5F6E2B348EF900DC2BA5 /* PagingBehavior.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PagingBehavior.swift; sourceTree = "<group>"; };
+		136B5F702B34918800DC2BA5 /* DisabledScrollClip.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DisabledScrollClip.swift; sourceTree = "<group>"; };
+		136B5F742B3493A300DC2BA5 /* ScrollMargin.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollMargin.swift; sourceTree = "<group>"; };
+		136B5F792B3494BB00DC2BA5 /* TransitionExample1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TransitionExample1.swift; sourceTree = "<group>"; };
+		136B5F7B2B3494C300DC2BA5 /* TransitionExample2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TransitionExample2.swift; sourceTree = "<group>"; };
+		136B5F7D2B3494C900DC2BA5 /* TransitionExample3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TransitionExample3.swift; sourceTree = "<group>"; };
+		136B5F822B3498C500DC2BA5 /* ShadersList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShadersList.swift; sourceTree = "<group>"; };
+		136B5F852B34994800DC2BA5 /* ShaderExample1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShaderExample1.swift; sourceTree = "<group>"; };
+		136B5F872B3499FE00DC2BA5 /* Shaders.metal */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.metal; path = Shaders.metal; sourceTree = "<group>"; };
+		136B5F892B349AEC00DC2BA5 /* ShaderExample2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShaderExample2.swift; sourceTree = "<group>"; };
+		136B5F8B2B349C6800DC2BA5 /* ShaderExample3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShaderExample3.swift; sourceTree = "<group>"; };
+		136B5F8D2B349C6B00DC2BA5 /* ShaderExample4.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShaderExample4.swift; sourceTree = "<group>"; };
+		136B5F8F2B349C7D00DC2BA5 /* ShaderExample5.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShaderExample5.swift; sourceTree = "<group>"; };
+		136B5F922B34A00D00DC2BA5 /* VisualEffectsList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VisualEffectsList.swift; sourceTree = "<group>"; };
+		136B5F952B34A07A00DC2BA5 /* VisualEffectExample1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VisualEffectExample1.swift; sourceTree = "<group>"; };
+		136B5F972B34A0AF00DC2BA5 /* VisualEffectExample2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VisualEffectExample2.swift; sourceTree = "<group>"; };
+		136B5F9A2B34CD5D00DC2BA5 /* IconsAndTextList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IconsAndTextList.swift; sourceTree = "<group>"; };
+		136B5F9E2B34CE2700DC2BA5 /* IconsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IconsView.swift; sourceTree = "<group>"; };
+		136B5FA02B34CE2C00DC2BA5 /* TextView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,7 +94,7 @@
 			isa = PBXGroup;
 			children = (
 				136B5F5A2B345BFD00DC2BA5 /* SwiftUI_17_overviewApp.swift */,
-				136B5F5C2B345BFD00DC2BA5 /* ContentView.swift */,
+				136B5F682B345FB800DC2BA5 /* View */,
 				136B5F5E2B345BFE00DC2BA5 /* Assets.xcassets */,
 				136B5F602B345BFE00DC2BA5 /* Preview Content */,
 			);
@@ -65,6 +107,107 @@
 				136B5F612B345BFE00DC2BA5 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		136B5F682B345FB800DC2BA5 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				136B5F5C2B345BFD00DC2BA5 /* ContentView.swift */,
+				136B5F692B3460D700DC2BA5 /* ScrollView */,
+				136B5F812B3498B900DC2BA5 /* Shaders */,
+				136B5F912B349FF000DC2BA5 /* Visual Effects */,
+				136B5F992B34CD3F00DC2BA5 /* Icons And Text */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		136B5F692B3460D700DC2BA5 /* ScrollView */ = {
+			isa = PBXGroup;
+			children = (
+				136B5F6A2B34614B00DC2BA5 /* ScrollViewList.swift */,
+				136B5F742B3493A300DC2BA5 /* ScrollMargin.swift */,
+				136B5F702B34918800DC2BA5 /* DisabledScrollClip.swift */,
+				136B5F6C2B348E7C00DC2BA5 /* ViewAlignedBehavior.swift */,
+				136B5F6E2B348EF900DC2BA5 /* PagingBehavior.swift */,
+				136B5F762B34949F00DC2BA5 /* TransitionExamples */,
+			);
+			path = ScrollView;
+			sourceTree = "<group>";
+		};
+		136B5F762B34949F00DC2BA5 /* TransitionExamples */ = {
+			isa = PBXGroup;
+			children = (
+				136B5F792B3494BB00DC2BA5 /* TransitionExample1.swift */,
+				136B5F7B2B3494C300DC2BA5 /* TransitionExample2.swift */,
+				136B5F7D2B3494C900DC2BA5 /* TransitionExample3.swift */,
+			);
+			path = TransitionExamples;
+			sourceTree = "<group>";
+		};
+		136B5F812B3498B900DC2BA5 /* Shaders */ = {
+			isa = PBXGroup;
+			children = (
+				136B5F822B3498C500DC2BA5 /* ShadersList.swift */,
+				136B5F842B34992B00DC2BA5 /* ShaderExamples */,
+			);
+			path = Shaders;
+			sourceTree = "<group>";
+		};
+		136B5F842B34992B00DC2BA5 /* ShaderExamples */ = {
+			isa = PBXGroup;
+			children = (
+				136B5F852B34994800DC2BA5 /* ShaderExample1.swift */,
+				136B5F892B349AEC00DC2BA5 /* ShaderExample2.swift */,
+				136B5F8B2B349C6800DC2BA5 /* ShaderExample3.swift */,
+				136B5F8D2B349C6B00DC2BA5 /* ShaderExample4.swift */,
+				136B5F8F2B349C7D00DC2BA5 /* ShaderExample5.swift */,
+				136B5F872B3499FE00DC2BA5 /* Shaders.metal */,
+			);
+			path = ShaderExamples;
+			sourceTree = "<group>";
+		};
+		136B5F912B349FF000DC2BA5 /* Visual Effects */ = {
+			isa = PBXGroup;
+			children = (
+				136B5F922B34A00D00DC2BA5 /* VisualEffectsList.swift */,
+				136B5F942B34A06500DC2BA5 /* Effects Examples */,
+			);
+			path = "Visual Effects";
+			sourceTree = "<group>";
+		};
+		136B5F942B34A06500DC2BA5 /* Effects Examples */ = {
+			isa = PBXGroup;
+			children = (
+				136B5F952B34A07A00DC2BA5 /* VisualEffectExample1.swift */,
+				136B5F972B34A0AF00DC2BA5 /* VisualEffectExample2.swift */,
+			);
+			path = "Effects Examples";
+			sourceTree = "<group>";
+		};
+		136B5F992B34CD3F00DC2BA5 /* Icons And Text */ = {
+			isa = PBXGroup;
+			children = (
+				136B5F9A2B34CD5D00DC2BA5 /* IconsAndTextList.swift */,
+				136B5F9C2B34CE0500DC2BA5 /* Icons */,
+				136B5F9D2B34CE0A00DC2BA5 /* Text */,
+			);
+			path = "Icons And Text";
+			sourceTree = "<group>";
+		};
+		136B5F9C2B34CE0500DC2BA5 /* Icons */ = {
+			isa = PBXGroup;
+			children = (
+				136B5F9E2B34CE2700DC2BA5 /* IconsView.swift */,
+			);
+			path = Icons;
+			sourceTree = "<group>";
+		};
+		136B5F9D2B34CE0A00DC2BA5 /* Text */ = {
+			isa = PBXGroup;
+			children = (
+				136B5FA02B34CE2C00DC2BA5 /* TextView.swift */,
+			);
+			path = Text;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -137,8 +280,29 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				136B5F962B34A07A00DC2BA5 /* VisualEffectExample1.swift in Sources */,
+				136B5F932B34A00D00DC2BA5 /* VisualEffectsList.swift in Sources */,
+				136B5F712B34918800DC2BA5 /* DisabledScrollClip.swift in Sources */,
+				136B5F832B3498C500DC2BA5 /* ShadersList.swift in Sources */,
+				136B5F8A2B349AEC00DC2BA5 /* ShaderExample2.swift in Sources */,
+				136B5F882B3499FE00DC2BA5 /* Shaders.metal in Sources */,
+				136B5FA12B34CE2C00DC2BA5 /* TextView.swift in Sources */,
+				136B5F8C2B349C6800DC2BA5 /* ShaderExample3.swift in Sources */,
+				136B5F752B3493A300DC2BA5 /* ScrollMargin.swift in Sources */,
+				136B5F8E2B349C6B00DC2BA5 /* ShaderExample4.swift in Sources */,
+				136B5F6B2B34614B00DC2BA5 /* ScrollViewList.swift in Sources */,
+				136B5F902B349C7D00DC2BA5 /* ShaderExample5.swift in Sources */,
+				136B5F7C2B3494C300DC2BA5 /* TransitionExample2.swift in Sources */,
+				136B5F982B34A0AF00DC2BA5 /* VisualEffectExample2.swift in Sources */,
+				136B5F7A2B3494BB00DC2BA5 /* TransitionExample1.swift in Sources */,
 				136B5F5D2B345BFD00DC2BA5 /* ContentView.swift in Sources */,
+				136B5F9F2B34CE2700DC2BA5 /* IconsView.swift in Sources */,
+				136B5F6D2B348E7C00DC2BA5 /* ViewAlignedBehavior.swift in Sources */,
+				136B5F9B2B34CD5D00DC2BA5 /* IconsAndTextList.swift in Sources */,
 				136B5F5B2B345BFD00DC2BA5 /* SwiftUI_17_overviewApp.swift in Sources */,
+				136B5F6F2B348EF900DC2BA5 /* PagingBehavior.swift in Sources */,
+				136B5F7E2B3494C900DC2BA5 /* TransitionExample3.swift in Sources */,
+				136B5F862B34994800DC2BA5 /* ShaderExample1.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
